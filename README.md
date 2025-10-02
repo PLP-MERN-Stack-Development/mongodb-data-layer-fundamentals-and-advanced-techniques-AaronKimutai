@@ -12,9 +12,9 @@ This project contains MongoDB queries and scripts for practicing CRUD operations
    ```bash
    git clone <your-repo-link>
  2. Navigate into the project folder:  
- 3. cd <repo-folder>  
+ 3. cd \<repo-folder\> 
  4. Install dependencies:  
- 5. npm install  
+  npm install  
  6. Run the script:  
- 7. node queries.js  
+  node queries.js  
 
